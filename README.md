@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/responsive-order-summary-component-using-flexbox-and-css-grid-q3uANM8bhi)
+- Solution URL: (https://www.frontendmentor.io/solutions/flexbox-and-css-grid-qsUHRgm06e)
 - Live Site URL: (https://alisonfort.github.io/fm-order-summary-component/)
 
 ### Built with
